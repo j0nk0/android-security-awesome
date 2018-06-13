@@ -141,6 +141,7 @@ Reverse Engineering
 28. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 29. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 30. [Radare2](https://github.com/radare/radare2)
+31. [rePy2exe](https://github.com/Cyber-Forensic/rePy2exe) - Reverse Engineering Tool for py2exe applications.
 
 Fuzz Testing
 ----
@@ -166,6 +167,14 @@ Market Crawlers
 4. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 5. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 6. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
+
+
+
+Forensic analysis Tools
+----
+
+1. [Forensic](https://github.com/MonroCoury/Forensic-Tools) - Extract data from FF,chrome,skype,whatsapp etc. 
+2. []() -
 
 Misc Tools
 ----
@@ -232,6 +241,9 @@ Malware
 6. [Admire](http://admire.necst.it/)
 7. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 
+Rootkits
+----
+1. [rootkit](https://github.com/Cyber-Forensic/RootKits-List-Download) - Big list with links to rootkits
 
 
 Bounty Programs
